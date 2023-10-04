@@ -404,3 +404,5 @@ testem.log
 # System files
 .DS_Store
 Thumbs.db
+
+/src/OlimPlus.API/appsettings.Development.json

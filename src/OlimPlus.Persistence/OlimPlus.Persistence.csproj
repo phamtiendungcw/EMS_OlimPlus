@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\OlimPlus.Application\OlimPlus.Application.csproj" />
+  </ItemGroup>
+
 </Project>
